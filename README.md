@@ -1,5 +1,5 @@
 # crypto-timer-react
-Chrome extension to get the cryptocurrencies prices. [Online Demo](https://alenkart.github.io/crypto-timer-react/)
+Chrome extension to get the cryptocurrencies prices. [Online Demo](https://seniorfsdev.github.io/timer-extension/)
 
 ## Demo
 ![alt text](public/demo.gif)
